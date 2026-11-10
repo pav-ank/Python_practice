@@ -13,4 +13,5 @@ class Solution:
                 lower_bound = midpoint + 1
             else:
                 upper_bound = midpoint - 1
+                
         return lower_bound
